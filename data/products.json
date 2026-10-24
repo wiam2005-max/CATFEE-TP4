@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10,
+    "name": "Espresso",
+    "category": "Coffee",
+    "price": 18,
+    "stock": 20,
+    "image": "images/Espresso.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "price": 28,
+    "stock": 14,
+    "image": "images/coffee.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Iced Coffee",
+    "category": "Cold Drinks",
+    "price": 32,
+    "stock": 10,
+    "image": "images/iced-coffee.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mint Tea",
+    "category": "Tea",
+    "price": 20,
+    "stock": 18,
+    "image": "images/tea.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "price": 35,
+    "stock": 7,
+    "image": "images/cake.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 38,
+    "stock": 0,
+    "image": "images/dessert.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Fresh Juice",
+    "category": "Cold Drinks",
+    "price": 25,
+    "stock": 12,
+    "image": "images/juice.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Vanilla Latte",
+    "category": "Coffee",
+    "price": 30,
+    "stock": 9,
+    "image": "images/coffee.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Brownie",
+    "category": "Desserts",
+    "price": 24,
+    "stock": 5,
+    "image": "images/cake.jpg"
+  }
+]

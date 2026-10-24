@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "Coffee",
+    "description": "A rich and classic coffee.",
+    "price": 15,
+    "available": true,
+    "image": "images/Espresso.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "description": "Smooth coffee with creamy foam.",
+    "price": 25,
+    "available": true,
+    "image": "images/coffee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Catfee Tea",
+    "category": "Tea",
+    "description": "A rich tea with the nicest smell.",
+    "price": 28,
+    "available": true,
+    "image": "images/tea.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cheesecake",
+    "category": "Dessert",
+    "description": "Creamy cheesecake with fresh berries.",
+    "price": 35,
+    "available": true,
+    "image": "images/dessert.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cat-shaped Cake",
+    "category": "Dessert",
+    "description": "Homemade cake shaped like cats.",
+    "price": 20,
+    "available": false,
+    "image": "images/cake.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Iced Coffee",
+    "category": "Drinks",
+    "description": "Chilled coffee for warm days.",
+    "price": 28,
+    "available": true,
+    "image": "images/iced-coffee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fresh Juice",
+    "category": "Drinks",
+    "description": "Freshly prepared seasonal fruit juice.",
+    "price": 25,
+    "available": true,
+    "image": "images/juice.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hot Chocolate",
+    "category": "Drinks",
+    "description": "A comforting chocolate drink.",
+    "price": 22,
+    "available": false,
+    "image": "images/coffee.jpg"
+  }
+]
